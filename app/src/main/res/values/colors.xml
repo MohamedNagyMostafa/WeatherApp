@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- App color settings -->
+    <color name="backgroundColor">#424242</color>
+    <color name="progressBarColor">#FFFFFF</color>
+    <color name="circle">#cfd8dc</color>
+    <!-- conditions color -->
+    <!-- 50 to up -->
+    <color name="fifty_degree">#f57f17</color>
+    <!-- 40 to 49 -->
+    <color name="fourty_degree">#fbc02d</color>
+    <!-- 30 to 39 -->
+    <color name="thirty_degree">#fff176</color>
+    <!-- 20 to 29 -->
+    <color name="twenty_degree">#b3e5fc</color>
+    <!-- 10 to 19 -->
+    <color name="ten_degree">#03a9f4</color>
+    <!-- 0 to 9 -->
+    <color name="zero_degree">#00e5ff</color>
+    <!-- -1 below -->
+    <color name="negative_degree">#84ffff</color>
+
+</resources>
